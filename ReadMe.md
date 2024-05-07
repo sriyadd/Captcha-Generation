@@ -12,7 +12,7 @@ Make sure you have Python installed on your system.
 
 2. Navigate to the project directory.
 
-3. Install the required dependencies.
+3. Install the required dependencies (pip install -r requirements.txt).
 
 ## Usage
 
